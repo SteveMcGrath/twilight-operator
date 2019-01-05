@@ -1,0 +1,22 @@
+{
+    "publisher": "stevemcgrath",
+    "name": "twilight-operator",
+    "displayName": "Twilight Operator",
+    "description": "Updated Twilight Theme (from TextMate & Sublime) with Italics & Bolds to support Operator and Dank fonts.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Twilight Operator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Twilight Operator-color-theme.json"
+            }
+        ]
+    }
+}
