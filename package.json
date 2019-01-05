@@ -1,5 +1,6 @@
 {
     "publisher": "stevemcgrath",
+    "repository": "https://github.com/SteveMcGrath/twilight-operator",
     "name": "twilight-operator",
     "displayName": "Twilight Operator",
     "description": "Updated Twilight Theme (from TextMate & Sublime) with Italics & Bolds to support Operator and Dank fonts.",
